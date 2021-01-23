@@ -1,6 +1,6 @@
 # AI-Learns-Handwritten-Digits
 
-This is the development of a Convolutional Neural Network (CNN) to recognize handwritten digits using PyTorch.
+This is the development of a Convolutional Neural Network (CNN) to recognize handwritten digits using PyTorch. The datasets are taken from MOOC MITx - 6.86x Machine Learning with Python-From Linear Models to Deep Learning course on edX.
 
 # Instruction
 
