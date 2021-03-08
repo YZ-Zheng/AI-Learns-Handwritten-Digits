@@ -10,5 +10,7 @@ This is the development of a Convolutional Neural Network (CNN) to recognize han
 
 3. *CNN_Prediction.py* takes the user drawn digits and try to recognize them using the model built in 1
 
-You may improve the model accuracy by altering the CNN architecture in *conv.py* and retrain it, or simply run *paint.py* to see how the current model does in recognizing your handwritten digits. **Remember to maximize the Drawing Tool window to have your handwritten digits properly captured**
+Simply run *paint.py* to see how the current model does in recognizing your handwritten digits. **Remember to maximize the Drawing Tool window to have your handwritten digits properly captured**
+
+**The model accuracy can be further improved by altering the CNN architecture in *conv.py* and retrain it.** 
 
